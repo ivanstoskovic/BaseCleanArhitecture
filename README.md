@@ -1,0 +1,2 @@
+# BaseCleanArhitecture
+SOLID, mediator, sqrs
